@@ -21,4 +21,4 @@ Aplicar conceitos básicos de cibersegurança e validação de dados.
 2. Abra o index.html no navegador
 
 ## Autor
-Seu Nome
+Arthur Brito
